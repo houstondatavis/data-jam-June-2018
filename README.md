@@ -1,6 +1,8 @@
 # data-jam-June-2018
 data for a Houston Data Visualization Meet-up data jam
 
+#### Lake Houston Water Quality Data
+
 ## Folders
 <b>orig_txt</b> holds the original tab deliminated text files downloaded as described in the jupyter notebook here.
 
