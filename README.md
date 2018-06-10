@@ -1,14 +1,14 @@
 # data-jam-June-2018
 data for a Houston Data Visualization Meet-up data jam
 
-### Folders
+## Folders
 <b>orig_txt</b> holds the original tab deliminated text files downloaded as described in the jupyter notebook here.
 
 <b>converted_files</b> holds the csv files created from the txt files in the folder mentioned directly above
 
 <b>watershed_geojsons</b> holds a basic geojson of watersheds in the Houston areas and a few geojsons showing representative point geojson of likely damage from Harvey modeled from an early (and since changed) FEMA damage model. It should be noted that there are known differences between actual damage and modeled damage using this model! So don't treat it as gospel.
 
-### Files
+## Files
 <b>datajam_stations_points.geojson</b> A geojson created with locations of the 8 water quality stations that feed into Lake Houston. The data for those stations are in the orig_txt and converted_files folders
 
 <b>download_sites.txt</b> Contains information that was used to be build the geojson above
