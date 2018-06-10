@@ -24,3 +24,5 @@ data for a Houston Data Visualization Meet-up data jam
 - Eventually, a page will open (it might take a few tens of seconds) with text. Right click on the page and save as a txt file. 
 
 Repeat for all the stations, and then use the rest of the notebook below to convert the initial txt file into CSV or JSON!
+
+### In summary, if you want to replicate getting this data or see what USGS built with it and other data sources go to : https://webapps.usgs.gov/lake_houston/home/#realtime
