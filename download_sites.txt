@@ -1,0 +1,85 @@
+#
+# USGS NWISWeb site number list
+#
+# This file can be used to retrieve data from the
+# USGS NWISWeb internet based retrieval system using
+# the 'File of site Numbers' search criteria.
+#
+# This file can be edited, but the number of columns
+# must be equal for each row, and the 'site_no' column
+# must remain.
+#
+# The columns include:
+#  agency_cd  -- Agency code.  If no value is found, 'USGS' is assumed
+#  site_no    -- USGS site number
+#  station_nm -- USGS site name. This column is include for viewing only,
+#                                it is not used by the nwisweb system.
+#
+agency_cd	site_no	station_nm
+5s	15s	56s
+USGS	08067074	CWA Canal at Thompson Rd nr Baytown, TX
+USGS	08068000	W Fk San Jacinto Rv nr Conroe, TX
+USGS	08068500	Spring Ck nr Spring, TX
+USGS	08069500	W Fk San Jacinto Rv nr Humble, TX
+USGS	08070200	E Fk San Jacinto Rv nr New Caney, TX
+USGS	294643095035200	Lynchburg Res nr CWA Canal Inflow nr Baytown, TX
+USGS	295554095093402	Lk Hou at Jack's Ditch (Site 2) nr Houston, TX
+USGS	295826095082200	Lk Houston S Union Pacific RR Bridge nr Houston,TX
+
+
+08067074	CWA Canal at Thompson Rd nr Baytown, TX
+Latitude 29°48'24.28",   Longitude 95°01'56.63"   NAD83
+Harris County, Texas, Hydrologic Unit 12040203
+Datum of gage: 36 feet above   NAVD88.
+
+
+USGS	294643095035200	Lynchburg Res nr CWA Canal Inflow nr Baytown, TX
+Latitude 29°46'42.91",   Longitude 95°03'51.94"   NAD83
+Harris County, Texas, Hydrologic Unit 12040104
+Datum of gage: 24 feet above   NAVD88.
+
+
+USGS	295554095093402	Lk Hou at Jack's Ditch (Site 2) nr Houston, TX
+Latitude 29°56'17.7",   Longitude 95°10'00.4"   NAD83
+Harris County, Texas, Hydrologic Unit 12040101
+Datum of gage: 43 feet above   NAVD88.
+
+
+USGS	295826095082200	Lk Houston S Union Pacific RR Bridge nr Houston,TX
+Latitude 29°58'26.16",   Longitude 95°08'21.78"   NAD83
+Harris County, Texas, Hydrologic Unit 12040101
+Datum of gage: 45 feet above   NGVD29.
+
+
+USGS	08069500	W Fk San Jacinto Rv nr Humble, TX
+Latitude 30°01'37",   Longitude 95°15'28"   NAD27
+Harris County, Texas, Hydrologic Unit 12040101
+Drainage area: 1,741 square miles
+Contributing drainage area: 1,741 square miles,
+Datum of gage: 0.00 feet above   NAVD88.
+
+
+USGS	08068000	W Fk San Jacinto Rv nr Conroe, TX
+Latitude 30°14'40",   Longitude 95°27'25"   NAD27
+Montgomery County, Texas, Hydrologic Unit 12040101
+Drainage area: 828 square miles
+Contributing drainage area: 828 square miles,
+Datum of gage: 00.00 feet above   NAVD88.
+
+
+
+USGS	08070200	E Fk San Jacinto Rv nr New Caney, TX
+Latitude 30°08'43",   Longitude 95°07'27"   NAD27
+Montgomery County, Texas, Hydrologic Unit 12040103
+Drainage area: 388 square miles
+Contributing drainage area: 388 square miles,
+Datum of gage: 0 feet above   NAVD88.
+
+
+USGS	08068500	Spring Ck nr Spring, TX
+Latitude 30°06'37",   Longitude 95°26'10"   NAD27
+Montgomery County, Texas, Hydrologic Unit 12040102
+Drainage area: 409 square miles
+Contributing drainage area: 409 square miles,
+Datum of gage: 72.6 feet above   NGVD29.
+

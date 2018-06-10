@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.43611111,30.11027778]
+      },
+      "properties": {
+        "station": "08068500",
+        "name": "Spring Ck nr Spring, TX",
+        "datumName": "NAD27",
+        "HydrologicUnit": "12040102",
+        "location": "Montgomery County, Texas",
+        "DrainageAreSqMiles": 409,
+        "ContributingDrainageArea": 409,
+        "DatumGageFt": 72.6,
+        "DatumAbove":"NGVD29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.03222222,29.80666667]
+      },
+      "properties": {
+        "station": "08067074",
+        "name": "CWA Canal at Thompson Rd nr Baytown, TX",
+        "datumName": "NAD83",
+        "location": "Harris County, Texas",
+        "HydrologicUnit": "12040203",
+        "DrainageAreSqMiles": "NA",
+        "ContributingDrainageArea": "NA",
+        "DatumGageFt": 36,
+        "DatumAbove":"NAVD88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.06444444, 29.77861111]
+      },
+      "properties": {
+        "station": "294643095035200",
+        "name": "Lynchburg Res nr CWA Canal Inflow nr Baytown, TX",
+        "datumName": "NAD83",
+        "location": "Harris County, Texas",
+        "HydrologicUnit": "12040104",
+        "DrainageAreSqMiles": "NA",
+        "ContributingDrainageArea": "NA",
+        "DatumGageFt": 24,
+        "DatumAbove":"NAVD88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.16666667,29.93833333]
+      },
+      "properties": {
+        "station": "295554095093402",
+        "name": "Lk Hou at Jack's Ditch (Site 2) nr Houston, TX",
+        "datumName": "NAD83",
+        "location": "Harris County, Texas",
+        "HydrologicUnit": "12040101",
+        "DrainageAreSqMiles": "NA",
+        "ContributingDrainageArea": "NA",
+        "DatumGageFt": 43,
+        "DatumAbove":"NAVD88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.139383,29.973933]
+      },
+      "properties": {
+        "station": "295826095082200",
+        "name": "Lk Houston S Union Pacific RR Bridge nr Houston,TX",
+        "datumName": "NAD83",
+        "location": "Harris County, Texas",
+        "HydrologicUnit": "12040101",
+        "DrainageAreSqMiles": "NA",
+        "ContributingDrainageArea": "NA",
+        "DatumGageFt": 45,
+        "DatumAbove":"NGVD29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -95.257778,30.026944]
+      },
+      "properties": {
+        "station": "08069500",
+        "name": "W Fk San Jacinto Rv nr Humble, TX",
+        "datumName": "NAD27",
+        "location": "Harris County, Texas",
+        "HydrologicUnit": "12040101",
+        "DrainageAreSqMiles": 1741,
+        "ContributingDrainageArea": 1741,
+        "DatumGageFt": 0,
+        "DatumAbove":"NGVD29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.124167,30.145278]
+      },
+      "properties": {
+        "station": "08070200",
+        "name": "E Fk San Jacinto Rv nr New Caney, TX",
+        "datumName": "NAD27",
+        "location": "Montgomery County, Texas",
+        "HydrologicUnit": "12040103",
+        "DrainageAreSqMiles": 388,
+        "ContributingDrainageArea": 388,
+        "DatumGageFt": 0,
+        "DatumAbove":"NAVD88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.456944,30.244444]
+      },
+      "properties": {
+        "station": "08068000",
+        "name": "W Fk San Jacinto Rv nr Conroe, TX",
+        "datumName": "NAD27",
+        "location": "Montgomery County, Texas",
+        "HydrologicUnit": "12040101",
+        "DrainageAreSqMiles": 828,
+        "ContributingDrainageArea": 828,
+        "DatumGageFt": 0,
+        "DatumAbove":"NAVD88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.436111,30.110278]
+      },
+      "properties": {
+        "station": "08068500",
+        "name": "Spring Ck nr Spring, TX",
+        "datumName": "NAD27",
+        "location": "Montgomery County, Texas",
+        "HydrologicUnit": "12040102",
+        "DrainageAreSqMiles": 409,
+        "ContributingDrainageArea": 409,
+        "DatumGageFt": 72.6,
+        "DatumAbove":"NGVD29"
+      }
+    }
+  ]
+}
