@@ -3,6 +3,11 @@ data for a Houston Data Visualization Meet-up data jam
 
 #### Lake Houston Water Quality Data
 
+## Upfront stuff
+1. The total data size of everything in this repo is large. You might want to just download the individual files in the converted files folder. 
+2. If you want to replicate getting this data or get and transform it yourself or see what USGS built with it and other data sources go to : https://webapps.usgs.gov/lake_houston/home/#realtime
+
+
 ## Folders
 <b>orig_txt</b> holds the original tab deliminated text files downloaded as described in the jupyter notebook: <First format conversions.ipynb>.
 
@@ -29,4 +34,4 @@ data for a Houston Data Visualization Meet-up data jam
 
 Repeat for all the stations, and then use the rest of the notebook below to convert the initial txt file into CSV or JSON!
 
-### In summary, if you want to replicate getting this data or see what USGS built with it and other data sources go to : https://webapps.usgs.gov/lake_houston/home/#realtime
+
