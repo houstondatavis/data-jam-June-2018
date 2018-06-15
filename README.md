@@ -4,11 +4,13 @@ data for a Houston Data Visualization Meet-up data jam
 #### Lake Houston Water Quality Data
 
 ## Folders
-<b>orig_txt</b> holds the original tab deliminated text files downloaded as described in the jupyter notebook here.
+<b>orig_txt</b> holds the original tab deliminated text files downloaded as described in the jupyter notebook: <First format conversions.ipynb>.
 
 <b>converted_files</b> holds the csv files created from the txt files in the folder mentioned directly above
 
-<b>watershed_geojsons</b> holds a basic geojson of watersheds in the Houston areas and a few geojsons showing representative point geojson of likely damage from Harvey modeled from an early (and since changed) FEMA damage model. It should be noted that there are known differences between actual damage and modeled damage using this model! So don't treat it as gospel.
+<b>watershed_geojsons</b> holds a basic geojson of watersheds in the Houston areas and a few geojsons showing representative point geojson of likely damage from Harvey modeled from an early (and since changed) FEMA damage model. It should be noted that there are known differences between actual damage and modeled damage using this model! So please don't treat it as gospel as it is known to be wrong. It is only being included here for perspective on where this water quality is vs. where flooding was ~ same bodies of water.
+
+<b>pre_made_kepler_map</b> holds a markdown file of instructions and a json of all data and configuration for the Kepler map. Basically, just go to Kepler demo page url and load in the json. The map will form itself in your browser. NOTE, the json is nearly 100mb so only download if you're willing to wait :).
 
 ## Files
 <b>datajam_stations_points.geojson</b> A geojson created with locations of the 8 water quality stations that feed into Lake Houston. The data for those stations are in the orig_txt and converted_files folders
