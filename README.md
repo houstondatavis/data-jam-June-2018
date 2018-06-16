@@ -11,7 +11,7 @@ data for a Houston Data Visualization Meet-up data jam
 ## Folders
 <b>orig_txt</b> holds the original tab deliminated text files downloaded as described in the jupyter notebook: <First format conversions.ipynb>.
 
-<b>converted_files</b> holds the csv files created from the txt files in the folder mentioned directly above. Inside the converted_files folder there is also a <b>pickles</b> folder that holds a Python pickle file of a single dataframe that holds all 8 stations but only the data columns that every station has in common.
+<b>converted_files</b> holds the csv files created from the txt files in the folder mentioned directly above. There are 8 csv files, one for each station, and a ninth that has everything combined but only the data columns that are present in every station and not just some stations. Inside the converted_files folder there is also a <b>pickles</b> folder that holds a Python pickle file of a single dataframe that holds all 8 stations but only the data columns that every station has in common.
 
 <b>watershed_geojsons</b> <i>Extra bonus data! Feel free to ignore.</i> This holds a basic geojson of watersheds in the Houston areas and a few geojsons showing representative point geojson of likely damage from Harvey modeled from an early (and since changed) FEMA damage model. It should be noted that there are known differences between actual damage and modeled damage using this model! So please don't treat it as gospel as it is known to be wrong. It is only being included here for perspective on where this water quality is vs. where flooding was ~ same bodies of water.
 
