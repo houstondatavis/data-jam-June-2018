@@ -24,6 +24,7 @@ data for a Houston Data Visualization Meet-up data jam
 
 <b>First format conversions.ipynb</b> Is a jupyter notebook used to convert the txt files to the easier to work with csv files in the converted_files folder. Please go to the original txt files for definitions of terms and header labels, etc. 
 
+<b>zoom_videoconf_IntroToDataBySachanShah.mp4</b> A video recording of Sachan Shah introducing the dataset and talking about some of the typical questions people ask?
 
 ### The data in "orig_txt" folders was gathered following these methods
 - The main website for water quality information around Lake Houston is <a href="https://webapps.usgs.gov/lake_houston/home/#realtime">here</a>.
@@ -72,4 +73,16 @@ Repeat for all the stations, and then use the rest of the notebook below to conv
 #     e  Value has been estimated.
 ```
 
+
+
+### Questions for end-users
+1. What would you like to see in this data?
+2. How would you like to use this data?
+3. What types of water discharge, quality, stream flow, etc. questions can be answered by this type of data that you can't answer very well right now?
+
+### Questions from subject matter expert
+1. Which entry point supplies more turbidity into Lake Houston?
+2. How does land use change relate to changes in turbidity?
+3. How far upstream can we track turbidity plumes?
+4. Is land-use changes around Lake Houston affecting water quality?
 
