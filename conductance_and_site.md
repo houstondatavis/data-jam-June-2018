@@ -28,3 +28,6 @@ Conductance study for Houston area water supply
 
 # site 95082200
 ![site95082200](https://i.imgur.com/LaPVIUG.jpg)
+
+# crude map
+![crudemap](https://i.imgur.com/ccu15aq.jpg)
