@@ -86,3 +86,27 @@ Repeat for all the stations, and then use the rest of the notebook below to conv
 3. How far upstream can we track turbidity plumes?
 4. Is land-use changes around Lake Houston affecting water quality?
 
+MORE THOUGHTS FROM SUBJECT MATTER EXPERT
+
+```
+Spoke to a colleague just now and he suggested something that's never been looked at:
+Spatial Time series of streamflow/discharge and water quality from Lake Conroe down to Lake Houston? If you look at the web app you can zoom to both lakes and follow where Lk Conroe feeds into the river that flows into Lk Houston.
+
+Page 13 of the following report:
+Good explanation of turbidity. Figure 6 is a good primer of what is necessary: turbidity variations over time along a particular "fork" or "reach" of a stream that enters into Lake Houston. Basically turbidity over time in relation to land use change, and different weather conditions (drought vs. wet)
+
+https://pubs.usgs.gov/sir/2012/5006/SIR%202012-5006_Lee%20Regression%20Model_FOR%20WEB.pdf
+
+Also other questions:
+1. How does pH of the water change during these high intensity storm events? (Tax Day, Memorial Day and Hurricane Harvey)?
+
+2. Relation between streamflow and taste and odor compounds?
+
+
+```
+<a href="https://webapps.usgs.gov/DSS_portfolio/infrm.html">Link</a> to Interagency Flood Risk Management and Estimated Base Flood Elevation (estBFE) Viewer mentioned during Q&A
+
+### We ask that projects started during the data jam be posted <a href="https://houstondatavis.github.io/data-jams/">on the showcase</a>. Projects, links to Tableau Public, screenshots, etc. are all welcome.
+
+
+
