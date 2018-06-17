@@ -1,7 +1,9 @@
 # data-jam-June-2018
 data for a Houston Data Visualization Meet-up data jam
 
-#### Lake Houston Water Quality Data
+### Lake Houston Water Quality Data
+
+### We ask that projects started during the data jam be posted <a href="https://hou#stondatavis.github.io/data-jams/">on the showcase</a>. Projects, links to Tableau Public, screenshots, etc. are all welcome.
 
 ## Upfront stuff
 1. The total data size of everything in this repo is large. You might want to just download the individual files in the converted files folder if you have an old computer. You might also just look at (a) only the columns in all the stations (b) only the lake stations that have similar data taken at different depths (c) cut back on the total length of time examined.
@@ -106,7 +108,6 @@ Also other questions:
 ```
 <a href="https://webapps.usgs.gov/DSS_portfolio/infrm.html">Link</a> to Interagency Flood Risk Management and Estimated Base Flood Elevation (estBFE) Viewer mentioned during Q&A
 
-### We ask that projects started during the data jam be posted <a href="https://houstondatavis.github.io/data-jams/">on the showcase</a>. Projects, links to Tableau Public, screenshots, etc. are all welcome.
 
 
 
