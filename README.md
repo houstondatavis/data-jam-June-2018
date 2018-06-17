@@ -102,6 +102,11 @@ Also other questions:
 
 2. Relation between streamflow and taste and odor compounds?
 
+<a href="https://webapps.usgs.gov/DSS_portfolio/infrm.html">Link</a> to Interagency Flood Risk Management and Estimated Base Flood Elevation (estBFE) Viewer mentioned during Q&A
+
 
 ```
+### We ask that projects started during the data jam be posted <a href="https://houstondatavis.github.io/data-jams/">on the showcase</a>. Projects, links to Tableau Public, screenshots, etc. are all welcome.
+
+
 
